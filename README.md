@@ -11,5 +11,6 @@ my solutions to leetcode.com problems in javascript language.
 |35|[search insert position](https://leetcode.com/problems/search-insert-position/) | [JavaScript](search-insert-position.js)|Easy|
 |977|[squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [JavaScript](squares-of-a-sorted-array.js)|Easy|
 |189|[rotate array](https://leetcode.com/problems/rotate-array/) | [JavaScript](rotate-array.js)|Medium|
-|47|[permutations ii](https://leetcode.com/problems/permutations-ii/) | [JavaScript](permutations-ii)|Medium|
-|117|[populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [JavaScript](populating-next-right-pointers-in-each-node-ii)|Medium|
+|47|[permutations ii](https://leetcode.com/problems/permutations-ii/) | [JavaScript](permutations-ii.js)|Medium|
+|117|[populating next right pointers in each node ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [JavaScript](populating-next-right-pointers-in-each-node-ii.js)|Medium|
+|283|[move zeroes](https://leetcode.com/problems/move-zeroes/) | [JavaScript](move-zeroes.js)|Easy|
