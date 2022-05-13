@@ -14,3 +14,4 @@ my solutions to leetcode.com problems in javascript language.
 |47|[permutations ii](https://leetcode.com/problems/permutations-ii/) | [JavaScript](permutations-ii.js)|Medium|
 |117|[populating next right pointers in each node ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [JavaScript](populating-next-right-pointers-in-each-node-ii.js)|Medium|
 |283|[move zeroes](https://leetcode.com/problems/move-zeroes/) | [JavaScript](move-zeroes.js)|Easy|
+|167|[two sum ii input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [JavaScript](two-sum-ii-input-array-is-sorted.js)|Medium|
