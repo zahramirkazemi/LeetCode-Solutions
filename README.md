@@ -15,3 +15,6 @@ my solutions to leetcode.com problems in javascript language.
 |117|[populating next right pointers in each node ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [JavaScript](populating-next-right-pointers-in-each-node-ii.js)|Medium|
 |283|[move zeroes](https://leetcode.com/problems/move-zeroes/) | [JavaScript](move-zeroes.js)|Easy|
 |167|[two sum ii input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [JavaScript](two-sum-ii-input-array-is-sorted.js)|Medium|
+|743|[network delay time](https://leetcode.com/problems/network-delay-time/) | [JavaScript](network-delay-time.js)|Medium|
+|344|[reverse string](https://leetcode.com/problems/reverse-string/) | [JavaScript](reverse-string.js)|Easy|
+|557|[reverse words in a string iii](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [JavaScript](reverse-words-in-a-string-iii.js)|Easy|
