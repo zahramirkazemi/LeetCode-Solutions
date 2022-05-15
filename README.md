@@ -18,3 +18,6 @@ my solutions to leetcode.com problems in javascript language.
 |743|[network delay time](https://leetcode.com/problems/network-delay-time/) | [JavaScript](network-delay-time.js)|Medium|
 |344|[reverse string](https://leetcode.com/problems/reverse-string/) | [JavaScript](reverse-string.js)|Easy|
 |557|[reverse words in a string iii](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [JavaScript](reverse-words-in-a-string-iii.js)|Easy|
+|876|[middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list/) | [JavaScript](middle-of-the-linked-list.js)|Easy|
+|19|[remove nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [JavaScript](remove-nth-node-from-end-of-list.js)|Medium|
+|1302|[deepest leaves sum](https://leetcode.com/problems/deepest-leaves-sum/) | [JavaScript](deepest-leaves-sum.js)|Medium|
