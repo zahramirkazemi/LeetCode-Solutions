@@ -21,3 +21,6 @@ my solutions to leetcode.com problems in javascript language.
 |876|[middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list/) | [JavaScript](middle-of-the-linked-list.js)|Easy|
 |19|[remove nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [JavaScript](remove-nth-node-from-end-of-list.js)|Medium|
 |1302|[deepest leaves sum](https://leetcode.com/problems/deepest-leaves-sum/) | [JavaScript](deepest-leaves-sum.js)|Medium|
+|1091|[shortest path in binary matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [JavaScript](shortest-path-in-binary-matrix.js)|Medium|
+|3|[longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JavaScript](longest-substring-without-repeating-characters.js)|Medium|
+|567|[permutation in string](https://leetcode.com/problems/permutation-in-string/) | [JavaScript](permutation-in-string.js)|Medium|
