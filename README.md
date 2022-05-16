@@ -1,6 +1,6 @@
 # LeetCode-Solutions 
-my solutions to leetcode.com problems in javascript language.
-total: 20 
+my solutions to leetcode.com problems in javascript language. 
+ total: 20 
  
 | ID | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
