@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Add Rows To Readme Table</title>
+</head>
+<body>
+    <div class="lg:w-5/6 m-12 rounded-lg mx-auto p-6 bg-gray-900 text-center flex flex-col gap-2">
+        <h1 class="text-white text-2xl bold">Add problem info for add row to readme file</h1>
+        <form id="form" class="my-5 text-left">
+            <label for="id" class="text-white">problem ID:</label>
+            <input class="font-medium text-white text-base py-1 px-2 mx-3 border rounded border-yellow-500 bg-gray-900 w-16 outline-0" id="id" type="number"/>
+            <label for="name" class="text-white">problem name:</label>
+            <input class="font-medium text-white text-base py-1 px-2 mx-3 border rounded border-yellow-500 bg-gray-900 w-52 outline-0" id="name" type="text" placeholder="example: two-sum"/>
+            <label for="Difficulty" class="text-white">Difficulty:</label>
+            <select id="Difficulty" class="font-medium text-base text-white py-1 px-2 mx-3 border rounded border-yellow-500 w-36 bg-gray-900 outline-0">
+                <option value="Easy">Easy</option>
+                <option value="Medium">Medium</option>
+                <option value="Hard">Hard</option>
+            </select>
+            <label for="Lang" class="text-white">Lang:</label>
+            <select id="Lang" class="font-medium text-base text-white py-1 px-2 mx-3 border rounded border-yellow-500 w-36 bg-gray-900 outline-0">
+                <option value="JavaScript" selected>JavaScript</option>
+            </select>
+            <button type="submit" class="font-medium text-base text-gray-900 py-1 px-2 mx-3 border border-yellow-500 rounded bg-yellow-500">ADD</button>
+        </form>
+    </div>
+</body>
+<script src="./addRow.js"></script>
+</html>

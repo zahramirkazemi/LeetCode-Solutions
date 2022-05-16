@@ -1,5 +1,9 @@
 const fs = require('fs');
-let data = "Learning how to write in a file.";
-fs.writeFile('xxx.md', data, (err) => {
-    if (err) throw err;
+let jsonData = require('./db.json');
+data = `# LeetCode-Solutions \nmy solutions to leetcode.com problems in javascript language.\ntotal: ${jsonData.Rows.length} \n \n| ID | Title | Solution | Difficulty |\n|---| ----- | -------- | ---------- |`
+for(r of jsonData.Rows){
+    data += `\n|${r.id}|[${r.title}](https://leetcode.com/problems/${r.title}/) | [${r.lang}](${r.title}.js)|${r.Difficulty}|\n`
+}
+fs.writeFile('README.md', data, (err) => {
+     if (err) throw err;
 })

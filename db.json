@@ -2,9 +2,7 @@
     "Rows": [
       {
         "id": 1,
-        "title": "two sum",
-        "problem": "https://leetcode.com/problems/two-sum/",
-        "Solution": "two-sum.js",
+        "title": "two-sum",
         "lang": "JavaScript",
         "Difficulty": "Easy"
       }    
