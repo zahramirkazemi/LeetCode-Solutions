@@ -119,6 +119,24 @@
       "title": "permutation-in-string",
       "lang": "JavaScript",
       "Difficulty": "Medium"
+    },
+    {
+      "id": "695",
+      "title": "max-area-of-island",
+      "lang": "JavaScript",
+      "Difficulty": "Medium"
+    },
+    {
+      "id": "733",
+      "title": "flood-fill",
+      "lang": "JavaScript",
+      "Difficulty": "Easy"
+    },
+    {
+      "id": "1379",
+      "title": "find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+      "lang": "JavaScript",
+      "Difficulty": "Medium"
     }
   ]
 }

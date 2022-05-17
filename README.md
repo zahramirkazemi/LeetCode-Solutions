@@ -1,6 +1,6 @@
 # LeetCode-Solutions 
 my solutions to leetcode.com problems in javascript language. 
- total: 20 
+ total: 23 
  
 | ID | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -18,9 +18,12 @@ my solutions to leetcode.com problems in javascript language.
 |344|[reverse-string](https://leetcode.com/problems/reverse-string/) | [JavaScript](./solutions/reverse-string.js)|Easy|
 |557|[reverse-words-in-a-string-iii](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [JavaScript](./solutions/reverse-words-in-a-string-iii.js)|Easy|
 |567|[permutation-in-string](https://leetcode.com/problems/permutation-in-string/) | [JavaScript](./solutions/permutation-in-string.js)|Medium|
+|695|[max-area-of-island](https://leetcode.com/problems/max-area-of-island/) | [JavaScript](./solutions/max-area-of-island.js)|Medium|
 |704|[binary-search](https://leetcode.com/problems/binary-search/) | [JavaScript](./solutions/binary-search.js)|Easy|
+|733|[flood-fill](https://leetcode.com/problems/flood-fill/) | [JavaScript](./solutions/flood-fill.js)|Easy|
 |743|[network-delay-time](https://leetcode.com/problems/network-delay-time/) | [JavaScript](./solutions/network-delay-time.js)|Medium|
 |876|[middle-of-the-linked-list](https://leetcode.com/problems/middle-of-the-linked-list/) | [JavaScript](./solutions/middle-of-the-linked-list.js)|Easy|
 |977|[squares-of-a-sorted-array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [JavaScript](./solutions/squares-of-a-sorted-array.js)|Easy|
 |1091|[shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [JavaScript](./solutions/shortest-path-in-binary-matrix.js)|Medium|
 |1302|[deepest-leaves-sum](https://leetcode.com/problems/deepest-leaves-sum/) | [JavaScript](./solutions/deepest-leaves-sum.js)|Medium|
+|1379|[find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [JavaScript](./solutions/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.js)|Medium|
