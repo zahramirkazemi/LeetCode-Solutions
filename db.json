@@ -137,6 +137,24 @@
       "title": "find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
       "lang": "JavaScript",
       "Difficulty": "Medium"
+    },
+    {
+      "id": "1192",
+      "title": "critical-connections-in-a-network",
+      "lang": "JavaScript",
+      "Difficulty": "Hard"
+    },
+    {
+      "id": "617",
+      "title": "merge-two-binary-trees",
+      "lang": "JavaScript",
+      "Difficulty": "Easy"
+    },
+    {
+      "id": "116",
+      "title": "populating-next-right-pointers-in-each-node",
+      "lang": "JavaScript",
+      "Difficulty": "Medium"
     }
   ]
 }
