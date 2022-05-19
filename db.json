@@ -155,6 +155,24 @@
       "title": "populating-next-right-pointers-in-each-node",
       "lang": "JavaScript",
       "Difficulty": "Medium"
+    },
+    {
+      "id": "329",
+      "title": "longest-increasing-path-in-a-matrix",
+      "lang": "JavaScript",
+      "Difficulty": "Hard"
+    },
+    {
+      "id": "542",
+      "title": "01-matrix",
+      "lang": "JavaScript",
+      "Difficulty": "Medium"
+    },
+    {
+      "id": "994",
+      "title": "rotting-oranges",
+      "lang": "JavaScript",
+      "Difficulty": "Medium"
     }
   ]
 }

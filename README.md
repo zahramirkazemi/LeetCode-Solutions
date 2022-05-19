@@ -1,6 +1,6 @@
 # LeetCode-Solutions 
 my solutions to leetcode.com problems in javascript language. 
- total: 26 
+ total: 29 
  
 | ID | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -16,7 +16,9 @@ my solutions to leetcode.com problems in javascript language.
 |189|[rotate-array](https://leetcode.com/problems/rotate-array/) | [JavaScript](./solutions/rotate-array.js)|Medium|
 |278|[first-bad-version](https://leetcode.com/problems/first-bad-version/) | [JavaScript](./solutions/first-bad-version.js)|Easy|
 |283|[move-zeroes](https://leetcode.com/problems/move-zeroes/) | [JavaScript](./solutions/move-zeroes.js)|Easy|
+|329|[longest-increasing-path-in-a-matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [JavaScript](./solutions/longest-increasing-path-in-a-matrix.js)|Hard|
 |344|[reverse-string](https://leetcode.com/problems/reverse-string/) | [JavaScript](./solutions/reverse-string.js)|Easy|
+|542|[01-matrix](https://leetcode.com/problems/01-matrix/) | [JavaScript](./solutions/01-matrix.js)|Medium|
 |557|[reverse-words-in-a-string-iii](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [JavaScript](./solutions/reverse-words-in-a-string-iii.js)|Easy|
 |567|[permutation-in-string](https://leetcode.com/problems/permutation-in-string/) | [JavaScript](./solutions/permutation-in-string.js)|Medium|
 |617|[merge-two-binary-trees](https://leetcode.com/problems/merge-two-binary-trees/) | [JavaScript](./solutions/merge-two-binary-trees.js)|Easy|
@@ -26,6 +28,7 @@ my solutions to leetcode.com problems in javascript language.
 |743|[network-delay-time](https://leetcode.com/problems/network-delay-time/) | [JavaScript](./solutions/network-delay-time.js)|Medium|
 |876|[middle-of-the-linked-list](https://leetcode.com/problems/middle-of-the-linked-list/) | [JavaScript](./solutions/middle-of-the-linked-list.js)|Easy|
 |977|[squares-of-a-sorted-array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [JavaScript](./solutions/squares-of-a-sorted-array.js)|Easy|
+|994|[rotting-oranges](https://leetcode.com/problems/rotting-oranges/) | [JavaScript](./solutions/rotting-oranges.js)|Medium|
 |1091|[shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [JavaScript](./solutions/shortest-path-in-binary-matrix.js)|Medium|
 |1192|[critical-connections-in-a-network](https://leetcode.com/problems/critical-connections-in-a-network/) | [JavaScript](./solutions/critical-connections-in-a-network.js)|Hard|
 |1302|[deepest-leaves-sum](https://leetcode.com/problems/deepest-leaves-sum/) | [JavaScript](./solutions/deepest-leaves-sum.js)|Medium|
