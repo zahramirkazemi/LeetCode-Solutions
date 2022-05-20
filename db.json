@@ -173,6 +173,24 @@
       "title": "rotting-oranges",
       "lang": "JavaScript",
       "Difficulty": "Medium"
+    },
+    {
+      "id": "63",
+      "title": "unique-paths-ii",
+      "lang": "JavaScript",
+      "Difficulty": "Medium"
+    },
+    {
+      "id": "21",
+      "title": "merge-two-sorted-lists",
+      "lang": "JavaScript",
+      "Difficulty": "Easy"
+    },
+    {
+      "id": "206",
+      "title": "reverse-linked-list",
+      "lang": "JavaScript",
+      "Difficulty": "Easy"
     }
   ]
 }
